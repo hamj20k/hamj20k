@@ -1,0 +1,10 @@
+### 👋 hey, i’m @hamj20k  
+
+- 👀 **what i’m into** → ai, deep learning, robotics, multi-agent systems, and space tech  
+- 🌱 **what i’m learning** → reinforcement learning, complex neural networks, and making ai actually useful  
+- 💡 **what i’m building** → whatever seems interesting  
+
+<!---
+hamj20k/hamj20k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
