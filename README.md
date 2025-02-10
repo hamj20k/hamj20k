@@ -1,7 +1,7 @@
 ### 👋 hey, i’m @hamj20k  
 
 - 👀 **what i’m into** → ai, deep learning, robotics, multi-agent systems, and space tech  
-- 🌱 **what i’m learning** → reinforcement learning, complex neural networks, and making ai actually useful  
+- 🌱 **what i’m learning** → game theory, reinforcement learning, complex neural networks
 - 💡 **what i’m building** → whatever seems interesting  
 
 <!---
